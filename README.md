@@ -1,13 +1,11 @@
  <h1>BERT Sentiment Analysis</h1>
-  
+ 
   <p>
 Fine-tuning and implementing the BERT model to classify sentiments in Google Play reviews.
   </p>
 
-
 <br />
 
-<!-- Table of Contents -->
 # Table of Contents
 
 - [About the Project](#about-the-project)
@@ -23,7 +21,6 @@ Fine-tuning and implementing the BERT model to classify sentiments in Google Pla
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
   
-<!-- About the Project -->
 ## About the Project
 This project leverages natural language processing (NLP) techniques to perform sentiment analysis on user reviews from the Google Play Store. By scraping data directly from the platform, we've compiled a comprehensive dataset of app reviews, which serves as the foundation for our analysis.
 
@@ -39,16 +36,12 @@ This project leverages natural language processing (NLP) techniques to perform s
   </ul>
 </details>
 
-<!-- Features -->
 ### Features
 
 - **Data Scraping**: Efficiently gathered thousands of user reviews using web scraping techniques, focusing on key metrics such as rating, review text, and timestamp.
 - **Data Preprocessing**: Cleaned and prepared the dataset for analysis, including text normalization, tokenization, and removal of irrelevant information.
 - **BERT Model Implementation**: Utilized the BERT classifier from the Hugging Face Transformers library to build a robust deep learning model capable of understanding context and nuances in language.
-<!-- Getting Started -->
-## Getting Started
 
-<!-- Prerequisites -->
 ### Prerequisites
 
 This project uses pip as package manager
@@ -81,11 +74,10 @@ Distributed under the Apache License. See LICENSE.txt for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - prateekmsoa@gmail.com
+Your Name - [LinkedIn](www.linkedin.com/in/prateekmp) - prateekmsoa@gmail.com
 
 Project Link: [BERT-Sentiment-Analysis](https://github.com/ezahpizza/BERT-Sentiment-Analysis/tree/main)
 
-<!-- Acknowledgments -->
 ## Acknowledgements
 
  - [Getting things done with PyTorch](https://leanpub.com/getting-things-done-with-pytorch)
