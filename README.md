@@ -1,9 +1,4 @@
-
-
-<div align="center">
-
-  <img src="logo.jpg" alt="logo" width="200" height="auto" />
-  <h1>BERT Sentiment Analysis</h1>
+ <h1>BERT Sentiment Analysis</h1>
   
   <p>
 Fine-tuning and implementing the BERT model to classify sentiments in Google Play reviews.
